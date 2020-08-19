@@ -1,5 +1,5 @@
 # Rodrigo Almeida
 
-CTO at Platontech.
+CTO @Platontech.
 
-Enthusiast and fan of the best web & mobile development technologies.
+Development technology lover.
