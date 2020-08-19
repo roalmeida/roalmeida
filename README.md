@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github.png" height="270" width="320" alt="Relectron" />
+  <img src="https://github.com/roalmeida/roalmeida/blob/master/github.png?raw=true" height="270" width="320" alt="Relectron" />
 </p>
 
 <br>
