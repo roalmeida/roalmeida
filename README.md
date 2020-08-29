@@ -8,4 +8,4 @@
 
 CTO @Platontech.
 
-Self-taught and Development technology lover.
+Self-taught and enthusiastic about development technologies.
