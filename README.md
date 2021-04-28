@@ -8,4 +8,4 @@
 
 CTO @Platontech.
 
-Self-taught and enthusiastic about development technologies.
+I'm chemical, self-taught and enthusiastic about development technologies.
